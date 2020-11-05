@@ -4,8 +4,6 @@
 
 This repo was written as part of the eleven x X-HEC Data Science for a Data Science hackathon. The mission we were working on was chronsite, a real-time analysis of the productivity of a team on a building site by computer vision. To do it, we used object-detection algorithms.
 
-This project was conducted by Charles Cazals, Hilaire Perchenet, Mathieu Joubrel, Paul Lafforgue and I.
-
 
 ## 1. Install project
 
@@ -55,3 +53,6 @@ Here are the pipeline's successive tasks:
 
 - **GetResultsTestSetPipeline** <br>
   Generates a JSON file with the predicted bounding boxes for the Testing Set. This JSON file satisfies the COCO annotation format. 
+  
+## Credits
+This project was conducted by Charles Cazals, Hilaire Perchenet, Mathieu Joubrel, Paul Lafforgue and Arthur Krieff.
