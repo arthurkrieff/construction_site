@@ -2,7 +2,7 @@
 
 ## 0. Presentation
 
-This repo was written as part of the eleven x X-HEC Data Science for a Data Science hackathon. The mission we were working on was chronsite, a real-time analysis of the productivity of a team on a building site by computer vision. To do it, we used object-detection algorithms.
+This repository was written as part of the eleven x X-HEC Data Science for a Data Science hackathon. The mission we were working on was chronsite, a real-time analysis of the productivity of a team on a building site by computer vision. To do it, we used object-detection algorithms.
 
 
 ## 1. Install project
